@@ -1,4 +1,4 @@
-# Lab 12 - Counters and Dividers
+# Lab 11 - Counters and Dividers
 
 In this lab, we learned how to make clock dividers from two types of counters.
 
